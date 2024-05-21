@@ -64,7 +64,7 @@
       "Xishu": 1.0,
       "RealDevNo": 493,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 44.0,
       "Idx": 1
     },
     {
@@ -75,7 +75,7 @@
       "Xishu": 1.0,
       "RealDevNo": 494,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 21.07,
       "Idx": 2
     },
     {
@@ -86,7 +86,7 @@
       "Xishu": 1.0,
       "RealDevNo": 495,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 79.53,
       "Idx": 3
     },
     {
@@ -119,7 +119,7 @@
       "Xishu": 1.0,
       "RealDevNo": 498,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 19.2,
       "Idx": 6
     },
     {
@@ -196,7 +196,7 @@
       "Xishu": 1.0,
       "RealDevNo": 500,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 804.0,
       "Idx": 13
     },
     {
@@ -207,7 +207,7 @@
       "Xishu": 1.0,
       "RealDevNo": 501,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.53,
       "Idx": 14
     },
     {
@@ -218,7 +218,7 @@
       "Xishu": 1.0,
       "RealDevNo": 502,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 804.0,
       "Idx": 15
     },
     {
@@ -240,7 +240,7 @@
       "Xishu": 1.0,
       "RealDevNo": 504,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 729.9,
       "Idx": 17
     },
     {
@@ -251,7 +251,7 @@
       "Xishu": 1.0,
       "RealDevNo": 505,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.55,
       "Idx": 18
     },
     {
@@ -262,7 +262,7 @@
       "Xishu": 1.0,
       "RealDevNo": 506,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 729.9,
       "Idx": 19
     },
     {
@@ -273,7 +273,7 @@
       "Xishu": 1.0,
       "RealDevNo": 507,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.55,
       "Idx": 20
     },
     {
@@ -284,7 +284,7 @@
       "Xishu": 1.0,
       "RealDevNo": 508,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 727.8,
       "Idx": 21
     },
     {
@@ -295,7 +295,7 @@
       "Xishu": 1.0,
       "RealDevNo": 509,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.31,
       "Idx": 22
     },
     {
@@ -306,7 +306,7 @@
       "Xishu": 1.0,
       "RealDevNo": 510,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 727.8,
       "Idx": 23
     },
     {
@@ -317,7 +317,7 @@
       "Xishu": 1.0,
       "RealDevNo": 511,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.7,
       "Idx": 24
     },
     {
@@ -328,7 +328,7 @@
       "Xishu": 1.0,
       "RealDevNo": 512,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 727.5,
       "Idx": 25
     },
     {
@@ -339,7 +339,7 @@
       "Xishu": 1.0,
       "RealDevNo": 513,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.539999962,
       "Idx": 26
     },
     {
@@ -350,7 +350,7 @@
       "Xishu": 1.0,
       "RealDevNo": 514,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 727.5,
       "Idx": 27
     },
     {
@@ -361,7 +361,7 @@
       "Xishu": 1.0,
       "RealDevNo": 515,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.55,
       "Idx": 28
     },
     {
@@ -636,7 +636,7 @@
       "Xishu": 1.0,
       "RealDevNo": 540,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 2.80400014,
       "Idx": 53
     },
     {
@@ -647,7 +647,7 @@
       "Xishu": 1.0,
       "RealDevNo": 541,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 409.0,
       "Idx": 54
     },
     {
@@ -658,7 +658,7 @@
       "Xishu": 1.0,
       "RealDevNo": 542,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 407.6,
       "Idx": 55
     },
     {
@@ -669,7 +669,7 @@
       "Xishu": 1.0,
       "RealDevNo": 543,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 407.9,
       "Idx": 56
     },
     {
@@ -680,7 +680,7 @@
       "Xishu": 1.0,
       "RealDevNo": 544,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 237.3,
       "Idx": 57
     },
     {
@@ -691,7 +691,7 @@
       "Xishu": 1.0,
       "RealDevNo": 545,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 238.0,
       "Idx": 58
     },
     {
@@ -702,7 +702,7 @@
       "Xishu": 1.0,
       "RealDevNo": 546,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 237.900009,
       "Idx": 59
     },
     {
@@ -713,7 +713,7 @@
       "Xishu": 1.0,
       "RealDevNo": 547,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.72800016,
       "Idx": 60
     },
     {
@@ -724,7 +724,7 @@
       "Xishu": 1.0,
       "RealDevNo": 548,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.785,
       "Idx": 61
     },
     {
@@ -735,7 +735,7 @@
       "Xishu": 1.0,
       "RealDevNo": 549,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.76800013,
       "Idx": 62
     },
     {
@@ -746,7 +746,7 @@
       "Xishu": 1.0,
       "RealDevNo": 550,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 29.1490021,
       "Idx": 63
     },
     {
@@ -757,7 +757,7 @@
       "Xishu": 1.0,
       "RealDevNo": 551,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 2.634,
       "Idx": 64
     },
     {
@@ -768,7 +768,7 @@
       "Xishu": 1.0,
       "RealDevNo": 552,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.003,
       "Idx": 65
     },
     {
@@ -779,7 +779,7 @@
       "Xishu": 1.0,
       "RealDevNo": 553,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.0,
       "Idx": 66
     },
     {
@@ -790,7 +790,7 @@
       "Xishu": 1.0,
       "RealDevNo": 554,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 50.01,
       "Idx": 67
     },
     {
@@ -801,7 +801,7 @@
       "Xishu": 1.0,
       "RealDevNo": 555,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 93.9399948,
       "Idx": 68
     },
     {
@@ -812,7 +812,7 @@
       "Xishu": 1.0,
       "RealDevNo": 556,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 45.2,
       "Idx": 69
     },
     {
@@ -823,7 +823,7 @@
       "Xishu": 1.0,
       "RealDevNo": 557,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 9.484,
       "Idx": 70
     },
     {
@@ -834,7 +834,7 @@
       "Xishu": 1.0,
       "RealDevNo": 558,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71627213E+09,
       "Idx": 71
     },
     {
@@ -845,7 +845,7 @@
       "Xishu": 1.0,
       "RealDevNo": 559,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71623629E+09,
       "Idx": 72
     },
     {
@@ -856,7 +856,7 @@
       "Xishu": 1.0,
       "RealDevNo": 838,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 51769.68,
       "Idx": 73
     },
     {
@@ -867,7 +867,7 @@
       "Xishu": 1.0,
       "RealDevNo": 839,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 101.6,
       "Idx": 74
     },
     {
@@ -988,7 +988,7 @@
       "Xishu": 1.0,
       "RealDevNo": 562,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 802.9,
       "Idx": 85
     },
     {
@@ -999,7 +999,7 @@
       "Xishu": 1.0,
       "RealDevNo": 563,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.63,
       "Idx": 86
     },
     {
@@ -1010,7 +1010,7 @@
       "Xishu": 1.0,
       "RealDevNo": 564,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 802.9,
       "Idx": 87
     },
     {
@@ -1032,7 +1032,7 @@
       "Xishu": 1.0,
       "RealDevNo": 566,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.3,
       "Idx": 89
     },
     {
@@ -1043,7 +1043,7 @@
       "Xishu": 1.0,
       "RealDevNo": 567,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.599999964,
       "Idx": 90
     },
     {
@@ -1054,7 +1054,7 @@
       "Xishu": 1.0,
       "RealDevNo": 568,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.3,
       "Idx": 91
     },
     {
@@ -1065,7 +1065,7 @@
       "Xishu": 1.0,
       "RealDevNo": 569,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.44,
       "Idx": 92
     },
     {
@@ -1076,7 +1076,7 @@
       "Xishu": 1.0,
       "RealDevNo": 570,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 735.3,
       "Idx": 93
     },
     {
@@ -1087,7 +1087,7 @@
       "Xishu": 1.0,
       "RealDevNo": 571,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.82,
       "Idx": 94
     },
     {
@@ -1098,7 +1098,7 @@
       "Xishu": 1.0,
       "RealDevNo": 572,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 735.3,
       "Idx": 95
     },
     {
@@ -1109,7 +1109,7 @@
       "Xishu": 1.0,
       "RealDevNo": 573,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.16,
       "Idx": 96
     },
     {
@@ -1120,7 +1120,7 @@
       "Xishu": 1.0,
       "RealDevNo": 574,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 720.600037,
       "Idx": 97
     },
     {
@@ -1131,7 +1131,7 @@
       "Xishu": 1.0,
       "RealDevNo": 575,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.62,
       "Idx": 98
     },
     {
@@ -1142,7 +1142,7 @@
       "Xishu": 1.0,
       "RealDevNo": 576,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 720.600037,
       "Idx": 99
     },
     {
@@ -1153,7 +1153,7 @@
       "Xishu": 1.0,
       "RealDevNo": 577,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.44,
       "Idx": 100
     },
     {
@@ -1428,7 +1428,7 @@
       "Xishu": 1.0,
       "RealDevNo": 602,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 2.71400023,
       "Idx": 125
     },
     {
@@ -1439,7 +1439,7 @@
       "Xishu": 1.0,
       "RealDevNo": 603,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 412.6,
       "Idx": 126
     },
     {
@@ -1450,7 +1450,7 @@
       "Xishu": 1.0,
       "RealDevNo": 604,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 411.2,
       "Idx": 127
     },
     {
@@ -1461,7 +1461,7 @@
       "Xishu": 1.0,
       "RealDevNo": 605,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 411.0,
       "Idx": 128
     },
     {
@@ -1472,7 +1472,7 @@
       "Xishu": 1.0,
       "RealDevNo": 606,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 236.5,
       "Idx": 129
     },
     {
@@ -1483,7 +1483,7 @@
       "Xishu": 1.0,
       "RealDevNo": 607,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 237.3,
       "Idx": 130
     },
     {
@@ -1494,7 +1494,7 @@
       "Xishu": 1.0,
       "RealDevNo": 608,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 236.0,
       "Idx": 131
     },
     {
@@ -1505,7 +1505,7 @@
       "Xishu": 1.0,
       "RealDevNo": 609,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.49800014,
       "Idx": 132
     },
     {
@@ -1516,7 +1516,7 @@
       "Xishu": 1.0,
       "RealDevNo": 610,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.52300024,
       "Idx": 133
     },
     {
@@ -1527,7 +1527,7 @@
       "Xishu": 1.0,
       "RealDevNo": 611,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.54600024,
       "Idx": 134
     },
     {
@@ -1538,7 +1538,7 @@
       "Xishu": 1.0,
       "RealDevNo": 612,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 29.1250019,
       "Idx": 135
     },
     {
@@ -1549,7 +1549,7 @@
       "Xishu": 1.0,
       "RealDevNo": 613,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 2.532,
       "Idx": 136
     },
     {
@@ -1560,7 +1560,7 @@
       "Xishu": 1.0,
       "RealDevNo": 614,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": -0.003,
       "Idx": 137
     },
     {
@@ -1571,7 +1571,7 @@
       "Xishu": 1.0,
       "RealDevNo": 615,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.0,
       "Idx": 138
     },
     {
@@ -1582,7 +1582,7 @@
       "Xishu": 1.0,
       "RealDevNo": 616,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 49.9899979,
       "Idx": 139
     },
     {
@@ -1593,7 +1593,7 @@
       "Xishu": 1.0,
       "RealDevNo": 617,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 93.27,
       "Idx": 140
     },
     {
@@ -1604,7 +1604,7 @@
       "Xishu": 1.0,
       "RealDevNo": 618,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 43.1000023,
       "Idx": 141
     },
     {
@@ -1615,7 +1615,7 @@
       "Xishu": 1.0,
       "RealDevNo": 619,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 9.682,
       "Idx": 142
     },
     {
@@ -1626,7 +1626,7 @@
       "Xishu": 1.0,
       "RealDevNo": 620,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71627251E+09,
       "Idx": 143
     },
     {
@@ -1637,7 +1637,7 @@
       "Xishu": 1.0,
       "RealDevNo": 621,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71623654E+09,
       "Idx": 144
     },
     {
@@ -1648,7 +1648,7 @@
       "Xishu": 1.0,
       "RealDevNo": 840,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 52013.52,
       "Idx": 145
     },
     {
@@ -1659,7 +1659,7 @@
       "Xishu": 1.0,
       "RealDevNo": 841,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 102.99,
       "Idx": 146
     },
     {
@@ -1780,7 +1780,7 @@
       "Xishu": 1.0,
       "RealDevNo": 624,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 725.5,
       "Idx": 157
     },
     {
@@ -1791,7 +1791,7 @@
       "Xishu": 1.0,
       "RealDevNo": 625,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.539999962,
       "Idx": 158
     },
     {
@@ -1802,7 +1802,7 @@
       "Xishu": 1.0,
       "RealDevNo": 626,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 725.5,
       "Idx": 159
     },
     {
@@ -1813,7 +1813,7 @@
       "Xishu": 1.0,
       "RealDevNo": 627,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.48999998,
       "Idx": 160
     },
     {
@@ -1824,7 +1824,7 @@
       "Xishu": 1.0,
       "RealDevNo": 628,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 732.100037,
       "Idx": 161
     },
     {
@@ -1835,7 +1835,7 @@
       "Xishu": 1.0,
       "RealDevNo": 629,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.61,
       "Idx": 162
     },
     {
@@ -1846,7 +1846,7 @@
       "Xishu": 1.0,
       "RealDevNo": 630,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 732.100037,
       "Idx": 163
     },
     {
@@ -1857,7 +1857,7 @@
       "Xishu": 1.0,
       "RealDevNo": 631,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.45,
       "Idx": 164
     },
     {
@@ -1868,7 +1868,7 @@
       "Xishu": 1.0,
       "RealDevNo": 632,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.4,
       "Idx": 165
     },
     {
@@ -1879,7 +1879,7 @@
       "Xishu": 1.0,
       "RealDevNo": 633,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.77,
       "Idx": 166
     },
     {
@@ -1890,7 +1890,7 @@
       "Xishu": 1.0,
       "RealDevNo": 634,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.4,
       "Idx": 167
     },
     {
@@ -1901,7 +1901,7 @@
       "Xishu": 1.0,
       "RealDevNo": 635,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.29,
       "Idx": 168
     },
     {
@@ -1912,7 +1912,7 @@
       "Xishu": 1.0,
       "RealDevNo": 636,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 720.2,
       "Idx": 169
     },
     {
@@ -1923,7 +1923,7 @@
       "Xishu": 1.0,
       "RealDevNo": 637,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.659999967,
       "Idx": 170
     },
     {
@@ -1934,7 +1934,7 @@
       "Xishu": 1.0,
       "RealDevNo": 638,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 720.2,
       "Idx": 171
     },
     {
@@ -1945,7 +1945,7 @@
       "Xishu": 1.0,
       "RealDevNo": 639,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.44,
       "Idx": 172
     },
     {
@@ -2220,7 +2220,7 @@
       "Xishu": 1.0,
       "RealDevNo": 664,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.24800014,
       "Idx": 197
     },
     {
@@ -2231,7 +2231,7 @@
       "Xishu": 1.0,
       "RealDevNo": 665,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 412.2,
       "Idx": 198
     },
     {
@@ -2242,7 +2242,7 @@
       "Xishu": 1.0,
       "RealDevNo": 666,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 412.0,
       "Idx": 199
     },
     {
@@ -2253,7 +2253,7 @@
       "Xishu": 1.0,
       "RealDevNo": 667,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 411.4,
       "Idx": 200
     },
     {
@@ -2264,7 +2264,7 @@
       "Xishu": 1.0,
       "RealDevNo": 668,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 236.400009,
       "Idx": 201
     },
     {
@@ -2275,7 +2275,7 @@
       "Xishu": 1.0,
       "RealDevNo": 669,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 237.5,
       "Idx": 202
     },
     {
@@ -2286,7 +2286,7 @@
       "Xishu": 1.0,
       "RealDevNo": 670,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 236.400009,
       "Idx": 203
     },
     {
@@ -2297,7 +2297,7 @@
       "Xishu": 1.0,
       "RealDevNo": 671,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.346,
       "Idx": 204
     },
     {
@@ -2308,7 +2308,7 @@
       "Xishu": 1.0,
       "RealDevNo": 672,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.339,
       "Idx": 205
     },
     {
@@ -2319,7 +2319,7 @@
       "Xishu": 1.0,
       "RealDevNo": 673,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.36400032,
       "Idx": 206
     },
     {
@@ -2330,7 +2330,7 @@
       "Xishu": 1.0,
       "RealDevNo": 674,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 36.839,
       "Idx": 207
     },
     {
@@ -2341,7 +2341,7 @@
       "Xishu": 1.0,
       "RealDevNo": 675,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.07300019,
       "Idx": 208
     },
     {
@@ -2352,7 +2352,7 @@
       "Xishu": 1.0,
       "RealDevNo": 676,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": -0.006,
       "Idx": 209
     },
     {
@@ -2363,7 +2363,7 @@
       "Xishu": 1.0,
       "RealDevNo": 677,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.0,
       "Idx": 210
     },
     {
@@ -2374,7 +2374,7 @@
       "Xishu": 1.0,
       "RealDevNo": 678,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 50.0399971,
       "Idx": 211
     },
     {
@@ -2385,7 +2385,7 @@
       "Xishu": 1.0,
       "RealDevNo": 679,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 94.61,
       "Idx": 212
     },
     {
@@ -2396,7 +2396,7 @@
       "Xishu": 1.0,
       "RealDevNo": 680,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 42.9,
       "Idx": 213
     },
     {
@@ -2407,7 +2407,7 @@
       "Xishu": 1.0,
       "RealDevNo": 681,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 11.7520008,
       "Idx": 214
     },
     {
@@ -2418,7 +2418,7 @@
       "Xishu": 1.0,
       "RealDevNo": 682,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71627277E+09,
       "Idx": 215
     },
     {
@@ -2429,7 +2429,7 @@
       "Xishu": 1.0,
       "RealDevNo": 683,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.2949673E+09,
       "Idx": 216
     },
     {
@@ -2440,7 +2440,7 @@
       "Xishu": 1.0,
       "RealDevNo": 842,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 62506.2773,
       "Idx": 217
     },
     {
@@ -2451,7 +2451,7 @@
       "Xishu": 1.0,
       "RealDevNo": 843,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 119.89,
       "Idx": 218
     },
     {
@@ -2572,7 +2572,7 @@
       "Xishu": 1.0,
       "RealDevNo": 686,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 722.9,
       "Idx": 229
     },
     {
@@ -2583,7 +2583,7 @@
       "Xishu": 1.0,
       "RealDevNo": 687,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.57,
       "Idx": 230
     },
     {
@@ -2594,7 +2594,7 @@
       "Xishu": 1.0,
       "RealDevNo": 688,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 722.9,
       "Idx": 231
     },
     {
@@ -2605,7 +2605,7 @@
       "Xishu": 1.0,
       "RealDevNo": 689,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.5,
       "Idx": 232
     },
     {
@@ -2616,7 +2616,7 @@
       "Xishu": 1.0,
       "RealDevNo": 690,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.2,
       "Idx": 233
     },
     {
@@ -2627,7 +2627,7 @@
       "Xishu": 1.0,
       "RealDevNo": 691,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.59,
       "Idx": 234
     },
     {
@@ -2638,7 +2638,7 @@
       "Xishu": 1.0,
       "RealDevNo": 692,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 724.2,
       "Idx": 235
     },
     {
@@ -2649,7 +2649,7 @@
       "Xishu": 1.0,
       "RealDevNo": 693,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.48999998,
       "Idx": 236
     },
     {
@@ -2660,7 +2660,7 @@
       "Xishu": 1.0,
       "RealDevNo": 694,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 730.0,
       "Idx": 237
     },
     {
@@ -2671,7 +2671,7 @@
       "Xishu": 1.0,
       "RealDevNo": 695,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.22,
       "Idx": 238
     },
     {
@@ -2682,7 +2682,7 @@
       "Xishu": 1.0,
       "RealDevNo": 696,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 730.0,
       "Idx": 239
     },
     {
@@ -2693,7 +2693,7 @@
       "Xishu": 1.0,
       "RealDevNo": 697,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.859999955,
       "Idx": 240
     },
     {
@@ -2704,7 +2704,7 @@
       "Xishu": 1.0,
       "RealDevNo": 698,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 711.7,
       "Idx": 241
     },
     {
@@ -2715,7 +2715,7 @@
       "Xishu": 1.0,
       "RealDevNo": 699,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.68,
       "Idx": 242
     },
     {
@@ -2726,7 +2726,7 @@
       "Xishu": 1.0,
       "RealDevNo": 700,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 711.7,
       "Idx": 243
     },
     {
@@ -2737,7 +2737,7 @@
       "Xishu": 1.0,
       "RealDevNo": 701,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 0.48,
       "Idx": 244
     },
     {
@@ -3012,7 +3012,7 @@
       "Xishu": 1.0,
       "RealDevNo": 726,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 3.14600015,
       "Idx": 269
     },
     {
@@ -3023,7 +3023,7 @@
       "Xishu": 1.0,
       "RealDevNo": 727,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 410.9,
       "Idx": 270
     },
     {
@@ -3034,7 +3034,7 @@
       "Xishu": 1.0,
       "RealDevNo": 728,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 410.7,
       "Idx": 271
     },
     {
@@ -3045,7 +3045,7 @@
       "Xishu": 1.0,
       "RealDevNo": 729,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 409.9,
       "Idx": 272
     },
     {
@@ -3056,7 +3056,7 @@
       "Xishu": 1.0,
       "RealDevNo": 730,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 235.900009,
       "Idx": 273
     },
     {
@@ -3067,7 +3067,7 @@
       "Xishu": 1.0,
       "RealDevNo": 731,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 237.3,
       "Idx": 274
     },
     {
@@ -3078,7 +3078,7 @@
       "Xishu": 1.0,
       "RealDevNo": 732,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 235.8,
       "Idx": 275
     },
     {
@@ -3089,7 +3089,7 @@
       "Xishu": 1.0,
       "RealDevNo": 733,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.163,
       "Idx": 276
     },
     {
@@ -3100,7 +3100,7 @@
       "Xishu": 1.0,
       "RealDevNo": 734,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.17900038,
       "Idx": 277
     },
     {
@@ -3111,7 +3111,7 @@
       "Xishu": 1.0,
       "RealDevNo": 735,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 4.203,
       "Idx": 278
     },
     {
@@ -3122,7 +3122,7 @@
       "Xishu": 1.0,
       "RealDevNo": 736,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 33.8910027,
       "Idx": 279
     },
     {
@@ -3133,7 +3133,7 @@
       "Xishu": 1.0,
       "RealDevNo": 737,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 2.959,
       "Idx": 280
     },
     {
@@ -3144,7 +3144,7 @@
       "Xishu": 1.0,
       "RealDevNo": 738,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": -0.004,
       "Idx": 281
     },
     {
@@ -3155,7 +3155,7 @@
       "Xishu": 1.0,
       "RealDevNo": 739,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.0,
       "Idx": 282
     },
     {
@@ -3166,7 +3166,7 @@
       "Xishu": 1.0,
       "RealDevNo": 740,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 50.03,
       "Idx": 283
     },
     {
@@ -3177,7 +3177,7 @@
       "Xishu": 1.0,
       "RealDevNo": 741,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 94.0499954,
       "Idx": 284
     },
     {
@@ -3188,7 +3188,7 @@
       "Xishu": 1.0,
       "RealDevNo": 742,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 42.8,
       "Idx": 285
     },
     {
@@ -3199,7 +3199,7 @@
       "Xishu": 1.0,
       "RealDevNo": 743,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 11.498,
       "Idx": 286
     },
     {
@@ -3210,7 +3210,7 @@
       "Xishu": 1.0,
       "RealDevNo": 744,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71627046E+09,
       "Idx": 287
     },
     {
@@ -3221,7 +3221,7 @@
       "Xishu": 1.0,
       "RealDevNo": 745,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 1.71623462E+09,
       "Idx": 288
     },
     {
@@ -3232,7 +3232,7 @@
       "Xishu": 1.0,
       "RealDevNo": 844,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 59336.16,
       "Idx": 289
     },
     {
@@ -3243,7 +3243,7 @@
       "Xishu": 1.0,
       "RealDevNo": 845,
       "type": 1,
-      "CurrentValue": 0.0,
+      "CurrentValue": 116.7,
       "Idx": 290
     },
     {
