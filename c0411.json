@@ -52,7 +52,9 @@
       "Addr": 16385,
       "Xishu": 1.0,
       "RealDevNo": 492,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 1,
@@ -61,7 +63,9 @@
       "Addr": 16386,
       "Xishu": 1.0,
       "RealDevNo": 493,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 1
     },
     {
       "No": 2,
@@ -70,7 +74,9 @@
       "Addr": 16387,
       "Xishu": 1.0,
       "RealDevNo": 494,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 2
     },
     {
       "No": 3,
@@ -79,7 +85,9 @@
       "Addr": 16388,
       "Xishu": 1.0,
       "RealDevNo": 495,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 3
     },
     {
       "No": 4,
@@ -88,7 +96,9 @@
       "Addr": 16389,
       "Xishu": 1.0,
       "RealDevNo": 496,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 4
     },
     {
       "No": 5,
@@ -97,7 +107,9 @@
       "Addr": 16390,
       "Xishu": 1.0,
       "RealDevNo": 497,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 5
     },
     {
       "No": 6,
@@ -106,7 +118,9 @@
       "Addr": 16391,
       "Xishu": 1.0,
       "RealDevNo": 498,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 6
     },
     {
       "No": 7,
@@ -115,7 +129,9 @@
       "Addr": 16392,
       "Xishu": 1.0,
       "RealDevNo": 499,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 7
     },
     {
       "No": 8,
@@ -124,7 +140,9 @@
       "Addr": 16393,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 8
     },
     {
       "No": 9,
@@ -133,7 +151,9 @@
       "Addr": 16394,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 9
     },
     {
       "No": 10,
@@ -142,7 +162,9 @@
       "Addr": 16395,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 10
     },
     {
       "No": 11,
@@ -151,7 +173,9 @@
       "Addr": 16396,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 11
     },
     {
       "No": 12,
@@ -160,7 +184,9 @@
       "Addr": 16397,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 12
     },
     {
       "No": 13,
@@ -169,7 +195,9 @@
       "Addr": 16398,
       "Xishu": 1.0,
       "RealDevNo": 500,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 13
     },
     {
       "No": 14,
@@ -178,7 +206,9 @@
       "Addr": 16399,
       "Xishu": 1.0,
       "RealDevNo": 501,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 14
     },
     {
       "No": 15,
@@ -187,7 +217,9 @@
       "Addr": 16400,
       "Xishu": 1.0,
       "RealDevNo": 502,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 15
     },
     {
       "No": 16,
@@ -196,7 +228,9 @@
       "Addr": 16401,
       "Xishu": 1.0,
       "RealDevNo": 503,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 16
     },
     {
       "No": 17,
@@ -205,7 +239,9 @@
       "Addr": 16402,
       "Xishu": 1.0,
       "RealDevNo": 504,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 17
     },
     {
       "No": 18,
@@ -214,7 +250,9 @@
       "Addr": 16403,
       "Xishu": 1.0,
       "RealDevNo": 505,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 18
     },
     {
       "No": 19,
@@ -223,7 +261,9 @@
       "Addr": 16404,
       "Xishu": 1.0,
       "RealDevNo": 506,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 19
     },
     {
       "No": 20,
@@ -232,7 +272,9 @@
       "Addr": 16405,
       "Xishu": 1.0,
       "RealDevNo": 507,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 20
     },
     {
       "No": 21,
@@ -241,7 +283,9 @@
       "Addr": 16406,
       "Xishu": 1.0,
       "RealDevNo": 508,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 21
     },
     {
       "No": 22,
@@ -250,7 +294,9 @@
       "Addr": 16407,
       "Xishu": 1.0,
       "RealDevNo": 509,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 22
     },
     {
       "No": 23,
@@ -259,7 +305,9 @@
       "Addr": 16408,
       "Xishu": 1.0,
       "RealDevNo": 510,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 23
     },
     {
       "No": 24,
@@ -268,7 +316,9 @@
       "Addr": 16409,
       "Xishu": 1.0,
       "RealDevNo": 511,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 24
     },
     {
       "No": 25,
@@ -277,7 +327,9 @@
       "Addr": 16410,
       "Xishu": 1.0,
       "RealDevNo": 512,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 25
     },
     {
       "No": 26,
@@ -286,7 +338,9 @@
       "Addr": 16411,
       "Xishu": 1.0,
       "RealDevNo": 513,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 26
     },
     {
       "No": 27,
@@ -295,7 +349,9 @@
       "Addr": 16412,
       "Xishu": 1.0,
       "RealDevNo": 514,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 27
     },
     {
       "No": 28,
@@ -304,7 +360,9 @@
       "Addr": 16413,
       "Xishu": 1.0,
       "RealDevNo": 515,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 28
     },
     {
       "No": 29,
@@ -313,7 +371,9 @@
       "Addr": 16414,
       "Xishu": 1.0,
       "RealDevNo": 516,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 29
     },
     {
       "No": 30,
@@ -322,7 +382,9 @@
       "Addr": 16415,
       "Xishu": 1.0,
       "RealDevNo": 517,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 30
     },
     {
       "No": 31,
@@ -331,7 +393,9 @@
       "Addr": 16416,
       "Xishu": 1.0,
       "RealDevNo": 518,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 31
     },
     {
       "No": 32,
@@ -340,7 +404,9 @@
       "Addr": 16417,
       "Xishu": 1.0,
       "RealDevNo": 519,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 32
     },
     {
       "No": 33,
@@ -349,7 +415,9 @@
       "Addr": 16418,
       "Xishu": 1.0,
       "RealDevNo": 520,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 33
     },
     {
       "No": 34,
@@ -358,7 +426,9 @@
       "Addr": 16419,
       "Xishu": 1.0,
       "RealDevNo": 521,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 34
     },
     {
       "No": 35,
@@ -367,7 +437,9 @@
       "Addr": 16420,
       "Xishu": 1.0,
       "RealDevNo": 522,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 35
     },
     {
       "No": 36,
@@ -376,7 +448,9 @@
       "Addr": 16421,
       "Xishu": 1.0,
       "RealDevNo": 523,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 36
     },
     {
       "No": 37,
@@ -385,7 +459,9 @@
       "Addr": 16422,
       "Xishu": 1.0,
       "RealDevNo": 524,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 37
     },
     {
       "No": 38,
@@ -394,7 +470,9 @@
       "Addr": 16423,
       "Xishu": 1.0,
       "RealDevNo": 525,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 38
     },
     {
       "No": 39,
@@ -403,7 +481,9 @@
       "Addr": 16424,
       "Xishu": 1.0,
       "RealDevNo": 526,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 39
     },
     {
       "No": 40,
@@ -412,7 +492,9 @@
       "Addr": 16425,
       "Xishu": 1.0,
       "RealDevNo": 527,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 40
     },
     {
       "No": 41,
@@ -421,7 +503,9 @@
       "Addr": 16426,
       "Xishu": 1.0,
       "RealDevNo": 528,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 41
     },
     {
       "No": 42,
@@ -430,7 +514,9 @@
       "Addr": 16427,
       "Xishu": 1.0,
       "RealDevNo": 529,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 42
     },
     {
       "No": 43,
@@ -439,7 +525,9 @@
       "Addr": 16428,
       "Xishu": 1.0,
       "RealDevNo": 530,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 43
     },
     {
       "No": 44,
@@ -448,7 +536,9 @@
       "Addr": 16429,
       "Xishu": 1.0,
       "RealDevNo": 531,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 44
     },
     {
       "No": 45,
@@ -457,7 +547,9 @@
       "Addr": 16430,
       "Xishu": 1.0,
       "RealDevNo": 532,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 45
     },
     {
       "No": 46,
@@ -466,7 +558,9 @@
       "Addr": 16431,
       "Xishu": 1.0,
       "RealDevNo": 533,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 46
     },
     {
       "No": 47,
@@ -475,7 +569,9 @@
       "Addr": 16432,
       "Xishu": 1.0,
       "RealDevNo": 534,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 47
     },
     {
       "No": 48,
@@ -484,7 +580,9 @@
       "Addr": 16433,
       "Xishu": 1.0,
       "RealDevNo": 535,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 48
     },
     {
       "No": 49,
@@ -493,7 +591,9 @@
       "Addr": 16434,
       "Xishu": 1.0,
       "RealDevNo": 536,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 49
     },
     {
       "No": 50,
@@ -502,7 +602,9 @@
       "Addr": 16435,
       "Xishu": 1.0,
       "RealDevNo": 537,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 50
     },
     {
       "No": 51,
@@ -511,7 +613,9 @@
       "Addr": 16436,
       "Xishu": 1.0,
       "RealDevNo": 538,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 51
     },
     {
       "No": 52,
@@ -520,7 +624,9 @@
       "Addr": 16437,
       "Xishu": 1.0,
       "RealDevNo": 539,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 52
     },
     {
       "No": 53,
@@ -529,7 +635,9 @@
       "Addr": 16438,
       "Xishu": 1.0,
       "RealDevNo": 540,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 53
     },
     {
       "No": 54,
@@ -538,7 +646,9 @@
       "Addr": 16439,
       "Xishu": 1.0,
       "RealDevNo": 541,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 54
     },
     {
       "No": 55,
@@ -547,7 +657,9 @@
       "Addr": 16440,
       "Xishu": 1.0,
       "RealDevNo": 542,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 55
     },
     {
       "No": 56,
@@ -556,7 +668,9 @@
       "Addr": 16441,
       "Xishu": 1.0,
       "RealDevNo": 543,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 56
     },
     {
       "No": 57,
@@ -565,7 +679,9 @@
       "Addr": 16442,
       "Xishu": 1.0,
       "RealDevNo": 544,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 57
     },
     {
       "No": 58,
@@ -574,7 +690,9 @@
       "Addr": 16443,
       "Xishu": 1.0,
       "RealDevNo": 545,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 58
     },
     {
       "No": 59,
@@ -583,7 +701,9 @@
       "Addr": 16444,
       "Xishu": 1.0,
       "RealDevNo": 546,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 59
     },
     {
       "No": 60,
@@ -592,7 +712,9 @@
       "Addr": 16445,
       "Xishu": 1.0,
       "RealDevNo": 547,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 60
     },
     {
       "No": 61,
@@ -601,7 +723,9 @@
       "Addr": 16446,
       "Xishu": 1.0,
       "RealDevNo": 548,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 61
     },
     {
       "No": 62,
@@ -610,7 +734,9 @@
       "Addr": 16447,
       "Xishu": 1.0,
       "RealDevNo": 549,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 62
     },
     {
       "No": 63,
@@ -619,7 +745,9 @@
       "Addr": 16448,
       "Xishu": 1.0,
       "RealDevNo": 550,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 63
     },
     {
       "No": 64,
@@ -628,7 +756,9 @@
       "Addr": 16449,
       "Xishu": 1.0,
       "RealDevNo": 551,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 64
     },
     {
       "No": 65,
@@ -637,7 +767,9 @@
       "Addr": 16450,
       "Xishu": 1.0,
       "RealDevNo": 552,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 65
     },
     {
       "No": 66,
@@ -646,7 +778,9 @@
       "Addr": 16451,
       "Xishu": 1.0,
       "RealDevNo": 553,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 66
     },
     {
       "No": 67,
@@ -655,7 +789,9 @@
       "Addr": 16452,
       "Xishu": 1.0,
       "RealDevNo": 554,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 67
     },
     {
       "No": 68,
@@ -664,7 +800,9 @@
       "Addr": 16453,
       "Xishu": 1.0,
       "RealDevNo": 555,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 68
     },
     {
       "No": 69,
@@ -673,7 +811,9 @@
       "Addr": 16454,
       "Xishu": 1.0,
       "RealDevNo": 556,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 69
     },
     {
       "No": 70,
@@ -682,7 +822,9 @@
       "Addr": 16455,
       "Xishu": 1.0,
       "RealDevNo": 557,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 70
     },
     {
       "No": 71,
@@ -691,7 +833,9 @@
       "Addr": 16456,
       "Xishu": 1.0,
       "RealDevNo": 558,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 71
     },
     {
       "No": 72,
@@ -700,25 +844,31 @@
       "Addr": 16457,
       "Xishu": 1.0,
       "RealDevNo": 559,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 72
     },
     {
       "No": 73,
-      "Name": "设备[1]-设备[3]-累计发电量-实时库号[353]-实时库号[560]",
+      "Name": "设备[0]-累计发电量1-实时库号[838]",
       "Unit": null,
       "Addr": 16458,
       "Xishu": 1.0,
-      "RealDevNo": 560,
-      "type": 1
+      "RealDevNo": 838,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 73
     },
     {
       "No": 74,
-      "Name": "设备[1]-设备[3]-当日发电量-实时库号[354]-实时库号[561]",
+      "Name": "设备[0]-当日发电量1-实时库号[839]",
       "Unit": null,
       "Addr": 16459,
       "Xishu": 1.0,
-      "RealDevNo": 561,
-      "type": 1
+      "RealDevNo": 839,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 74
     },
     {
       "No": 75,
@@ -727,7 +877,9 @@
       "Addr": 16460,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 75
     },
     {
       "No": 76,
@@ -736,7 +888,9 @@
       "Addr": 16461,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 76
     },
     {
       "No": 77,
@@ -745,7 +899,9 @@
       "Addr": 16462,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 77
     },
     {
       "No": 78,
@@ -754,7 +910,9 @@
       "Addr": 16463,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 78
     },
     {
       "No": 79,
@@ -763,7 +921,9 @@
       "Addr": 16464,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 79
     },
     {
       "No": 80,
@@ -772,7 +932,9 @@
       "Addr": 16465,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 80
     },
     {
       "No": 81,
@@ -781,7 +943,9 @@
       "Addr": 16466,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 81
     },
     {
       "No": 82,
@@ -790,7 +954,9 @@
       "Addr": 16467,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 82
     },
     {
       "No": 83,
@@ -799,7 +965,9 @@
       "Addr": 16468,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 83
     },
     {
       "No": 84,
@@ -808,7 +976,9 @@
       "Addr": 16469,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 84
     },
     {
       "No": 85,
@@ -817,7 +987,9 @@
       "Addr": 16470,
       "Xishu": 1.0,
       "RealDevNo": 562,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 85
     },
     {
       "No": 86,
@@ -826,7 +998,9 @@
       "Addr": 16471,
       "Xishu": 1.0,
       "RealDevNo": 563,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 86
     },
     {
       "No": 87,
@@ -835,7 +1009,9 @@
       "Addr": 16472,
       "Xishu": 1.0,
       "RealDevNo": 564,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 87
     },
     {
       "No": 88,
@@ -844,7 +1020,9 @@
       "Addr": 16473,
       "Xishu": 1.0,
       "RealDevNo": 565,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 88
     },
     {
       "No": 89,
@@ -853,7 +1031,9 @@
       "Addr": 16474,
       "Xishu": 1.0,
       "RealDevNo": 566,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 89
     },
     {
       "No": 90,
@@ -862,7 +1042,9 @@
       "Addr": 16475,
       "Xishu": 1.0,
       "RealDevNo": 567,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 90
     },
     {
       "No": 91,
@@ -871,7 +1053,9 @@
       "Addr": 16476,
       "Xishu": 1.0,
       "RealDevNo": 568,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 91
     },
     {
       "No": 92,
@@ -880,7 +1064,9 @@
       "Addr": 16477,
       "Xishu": 1.0,
       "RealDevNo": 569,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 92
     },
     {
       "No": 93,
@@ -889,7 +1075,9 @@
       "Addr": 16478,
       "Xishu": 1.0,
       "RealDevNo": 570,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 93
     },
     {
       "No": 94,
@@ -898,7 +1086,9 @@
       "Addr": 16479,
       "Xishu": 1.0,
       "RealDevNo": 571,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 94
     },
     {
       "No": 95,
@@ -907,7 +1097,9 @@
       "Addr": 16480,
       "Xishu": 1.0,
       "RealDevNo": 572,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 95
     },
     {
       "No": 96,
@@ -916,7 +1108,9 @@
       "Addr": 16481,
       "Xishu": 1.0,
       "RealDevNo": 573,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 96
     },
     {
       "No": 97,
@@ -925,7 +1119,9 @@
       "Addr": 16482,
       "Xishu": 1.0,
       "RealDevNo": 574,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 97
     },
     {
       "No": 98,
@@ -934,7 +1130,9 @@
       "Addr": 16483,
       "Xishu": 1.0,
       "RealDevNo": 575,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 98
     },
     {
       "No": 99,
@@ -943,7 +1141,9 @@
       "Addr": 16484,
       "Xishu": 1.0,
       "RealDevNo": 576,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 99
     },
     {
       "No": 100,
@@ -952,7 +1152,9 @@
       "Addr": 16485,
       "Xishu": 1.0,
       "RealDevNo": 577,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 100
     },
     {
       "No": 101,
@@ -961,7 +1163,9 @@
       "Addr": 16486,
       "Xishu": 1.0,
       "RealDevNo": 578,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 101
     },
     {
       "No": 102,
@@ -970,7 +1174,9 @@
       "Addr": 16487,
       "Xishu": 1.0,
       "RealDevNo": 579,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 102
     },
     {
       "No": 103,
@@ -979,7 +1185,9 @@
       "Addr": 16488,
       "Xishu": 1.0,
       "RealDevNo": 580,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 103
     },
     {
       "No": 104,
@@ -988,7 +1196,9 @@
       "Addr": 16489,
       "Xishu": 1.0,
       "RealDevNo": 581,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 104
     },
     {
       "No": 105,
@@ -997,7 +1207,9 @@
       "Addr": 16490,
       "Xishu": 1.0,
       "RealDevNo": 582,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 105
     },
     {
       "No": 106,
@@ -1006,7 +1218,9 @@
       "Addr": 16491,
       "Xishu": 1.0,
       "RealDevNo": 583,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 106
     },
     {
       "No": 107,
@@ -1015,7 +1229,9 @@
       "Addr": 16492,
       "Xishu": 1.0,
       "RealDevNo": 584,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 107
     },
     {
       "No": 108,
@@ -1024,7 +1240,9 @@
       "Addr": 16493,
       "Xishu": 1.0,
       "RealDevNo": 585,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 108
     },
     {
       "No": 109,
@@ -1033,7 +1251,9 @@
       "Addr": 16494,
       "Xishu": 1.0,
       "RealDevNo": 586,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 109
     },
     {
       "No": 110,
@@ -1042,7 +1262,9 @@
       "Addr": 16495,
       "Xishu": 1.0,
       "RealDevNo": 587,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 110
     },
     {
       "No": 111,
@@ -1051,7 +1273,9 @@
       "Addr": 16496,
       "Xishu": 1.0,
       "RealDevNo": 588,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 111
     },
     {
       "No": 112,
@@ -1060,7 +1284,9 @@
       "Addr": 16497,
       "Xishu": 1.0,
       "RealDevNo": 589,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 112
     },
     {
       "No": 113,
@@ -1069,7 +1295,9 @@
       "Addr": 16498,
       "Xishu": 1.0,
       "RealDevNo": 590,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 113
     },
     {
       "No": 114,
@@ -1078,7 +1306,9 @@
       "Addr": 16499,
       "Xishu": 1.0,
       "RealDevNo": 591,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 114
     },
     {
       "No": 115,
@@ -1087,7 +1317,9 @@
       "Addr": 16500,
       "Xishu": 1.0,
       "RealDevNo": 592,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 115
     },
     {
       "No": 116,
@@ -1096,7 +1328,9 @@
       "Addr": 16501,
       "Xishu": 1.0,
       "RealDevNo": 593,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 116
     },
     {
       "No": 117,
@@ -1105,7 +1339,9 @@
       "Addr": 16502,
       "Xishu": 1.0,
       "RealDevNo": 594,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 117
     },
     {
       "No": 118,
@@ -1114,7 +1350,9 @@
       "Addr": 16503,
       "Xishu": 1.0,
       "RealDevNo": 595,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 118
     },
     {
       "No": 119,
@@ -1123,7 +1361,9 @@
       "Addr": 16504,
       "Xishu": 1.0,
       "RealDevNo": 596,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 119
     },
     {
       "No": 120,
@@ -1132,7 +1372,9 @@
       "Addr": 16505,
       "Xishu": 1.0,
       "RealDevNo": 597,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 120
     },
     {
       "No": 121,
@@ -1141,7 +1383,9 @@
       "Addr": 16506,
       "Xishu": 1.0,
       "RealDevNo": 598,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 121
     },
     {
       "No": 122,
@@ -1150,7 +1394,9 @@
       "Addr": 16507,
       "Xishu": 1.0,
       "RealDevNo": 599,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 122
     },
     {
       "No": 123,
@@ -1159,7 +1405,9 @@
       "Addr": 16508,
       "Xishu": 1.0,
       "RealDevNo": 600,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 123
     },
     {
       "No": 124,
@@ -1168,7 +1416,9 @@
       "Addr": 16509,
       "Xishu": 1.0,
       "RealDevNo": 601,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 124
     },
     {
       "No": 125,
@@ -1177,7 +1427,9 @@
       "Addr": 16510,
       "Xishu": 1.0,
       "RealDevNo": 602,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 125
     },
     {
       "No": 126,
@@ -1186,7 +1438,9 @@
       "Addr": 16511,
       "Xishu": 1.0,
       "RealDevNo": 603,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 126
     },
     {
       "No": 127,
@@ -1195,7 +1449,9 @@
       "Addr": 16512,
       "Xishu": 1.0,
       "RealDevNo": 604,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 127
     },
     {
       "No": 128,
@@ -1204,7 +1460,9 @@
       "Addr": 16513,
       "Xishu": 1.0,
       "RealDevNo": 605,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 128
     },
     {
       "No": 129,
@@ -1213,7 +1471,9 @@
       "Addr": 16514,
       "Xishu": 1.0,
       "RealDevNo": 606,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 129
     },
     {
       "No": 130,
@@ -1222,7 +1482,9 @@
       "Addr": 16515,
       "Xishu": 1.0,
       "RealDevNo": 607,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 130
     },
     {
       "No": 131,
@@ -1231,7 +1493,9 @@
       "Addr": 16516,
       "Xishu": 1.0,
       "RealDevNo": 608,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 131
     },
     {
       "No": 132,
@@ -1240,7 +1504,9 @@
       "Addr": 16517,
       "Xishu": 1.0,
       "RealDevNo": 609,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 132
     },
     {
       "No": 133,
@@ -1249,7 +1515,9 @@
       "Addr": 16518,
       "Xishu": 1.0,
       "RealDevNo": 610,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 133
     },
     {
       "No": 134,
@@ -1258,7 +1526,9 @@
       "Addr": 16519,
       "Xishu": 1.0,
       "RealDevNo": 611,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 134
     },
     {
       "No": 135,
@@ -1267,7 +1537,9 @@
       "Addr": 16520,
       "Xishu": 1.0,
       "RealDevNo": 612,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 135
     },
     {
       "No": 136,
@@ -1276,7 +1548,9 @@
       "Addr": 16521,
       "Xishu": 1.0,
       "RealDevNo": 613,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 136
     },
     {
       "No": 137,
@@ -1285,7 +1559,9 @@
       "Addr": 16522,
       "Xishu": 1.0,
       "RealDevNo": 614,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 137
     },
     {
       "No": 138,
@@ -1294,7 +1570,9 @@
       "Addr": 16523,
       "Xishu": 1.0,
       "RealDevNo": 615,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 138
     },
     {
       "No": 139,
@@ -1303,7 +1581,9 @@
       "Addr": 16524,
       "Xishu": 1.0,
       "RealDevNo": 616,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 139
     },
     {
       "No": 140,
@@ -1312,7 +1592,9 @@
       "Addr": 16525,
       "Xishu": 1.0,
       "RealDevNo": 617,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 140
     },
     {
       "No": 141,
@@ -1321,7 +1603,9 @@
       "Addr": 16526,
       "Xishu": 1.0,
       "RealDevNo": 618,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 141
     },
     {
       "No": 142,
@@ -1330,7 +1614,9 @@
       "Addr": 16527,
       "Xishu": 1.0,
       "RealDevNo": 619,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 142
     },
     {
       "No": 143,
@@ -1339,7 +1625,9 @@
       "Addr": 16528,
       "Xishu": 1.0,
       "RealDevNo": 620,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 143
     },
     {
       "No": 144,
@@ -1348,25 +1636,31 @@
       "Addr": 16529,
       "Xishu": 1.0,
       "RealDevNo": 621,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 144
     },
     {
       "No": 145,
-      "Name": "设备[1]-设备[4]-累计发电量-实时库号[431]-实时库号[622]",
+      "Name": "设备[0]-累计发电量2-实时库号[840]",
       "Unit": null,
       "Addr": 16530,
       "Xishu": 1.0,
-      "RealDevNo": 622,
-      "type": 1
+      "RealDevNo": 840,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 145
     },
     {
       "No": 146,
-      "Name": "设备[1]-设备[4]-当日发电量-实时库号[432]-实时库号[623]",
+      "Name": "设备[0]-当日发电量2-实时库号[841]",
       "Unit": null,
       "Addr": 16531,
       "Xishu": 1.0,
-      "RealDevNo": 623,
-      "type": 1
+      "RealDevNo": 841,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 146
     },
     {
       "No": 147,
@@ -1375,7 +1669,9 @@
       "Addr": 16532,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 147
     },
     {
       "No": 148,
@@ -1384,7 +1680,9 @@
       "Addr": 16533,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 148
     },
     {
       "No": 149,
@@ -1393,7 +1691,9 @@
       "Addr": 16534,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 149
     },
     {
       "No": 150,
@@ -1402,7 +1702,9 @@
       "Addr": 16535,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 150
     },
     {
       "No": 151,
@@ -1411,7 +1713,9 @@
       "Addr": 16536,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 151
     },
     {
       "No": 152,
@@ -1420,7 +1724,9 @@
       "Addr": 16537,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 152
     },
     {
       "No": 153,
@@ -1429,7 +1735,9 @@
       "Addr": 16538,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 153
     },
     {
       "No": 154,
@@ -1438,7 +1746,9 @@
       "Addr": 16539,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 154
     },
     {
       "No": 155,
@@ -1447,7 +1757,9 @@
       "Addr": 16540,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 155
     },
     {
       "No": 156,
@@ -1456,7 +1768,9 @@
       "Addr": 16541,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 156
     },
     {
       "No": 157,
@@ -1465,7 +1779,9 @@
       "Addr": 16542,
       "Xishu": 1.0,
       "RealDevNo": 624,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 157
     },
     {
       "No": 158,
@@ -1474,7 +1790,9 @@
       "Addr": 16543,
       "Xishu": 1.0,
       "RealDevNo": 625,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 158
     },
     {
       "No": 159,
@@ -1483,7 +1801,9 @@
       "Addr": 16544,
       "Xishu": 1.0,
       "RealDevNo": 626,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 159
     },
     {
       "No": 160,
@@ -1492,7 +1812,9 @@
       "Addr": 16545,
       "Xishu": 1.0,
       "RealDevNo": 627,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 160
     },
     {
       "No": 161,
@@ -1501,7 +1823,9 @@
       "Addr": 16546,
       "Xishu": 1.0,
       "RealDevNo": 628,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 161
     },
     {
       "No": 162,
@@ -1510,7 +1834,9 @@
       "Addr": 16547,
       "Xishu": 1.0,
       "RealDevNo": 629,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 162
     },
     {
       "No": 163,
@@ -1519,7 +1845,9 @@
       "Addr": 16548,
       "Xishu": 1.0,
       "RealDevNo": 630,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 163
     },
     {
       "No": 164,
@@ -1528,7 +1856,9 @@
       "Addr": 16549,
       "Xishu": 1.0,
       "RealDevNo": 631,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 164
     },
     {
       "No": 165,
@@ -1537,7 +1867,9 @@
       "Addr": 16550,
       "Xishu": 1.0,
       "RealDevNo": 632,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 165
     },
     {
       "No": 166,
@@ -1546,7 +1878,9 @@
       "Addr": 16551,
       "Xishu": 1.0,
       "RealDevNo": 633,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 166
     },
     {
       "No": 167,
@@ -1555,7 +1889,9 @@
       "Addr": 16552,
       "Xishu": 1.0,
       "RealDevNo": 634,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 167
     },
     {
       "No": 168,
@@ -1564,7 +1900,9 @@
       "Addr": 16553,
       "Xishu": 1.0,
       "RealDevNo": 635,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 168
     },
     {
       "No": 169,
@@ -1573,7 +1911,9 @@
       "Addr": 16554,
       "Xishu": 1.0,
       "RealDevNo": 636,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 169
     },
     {
       "No": 170,
@@ -1582,7 +1922,9 @@
       "Addr": 16555,
       "Xishu": 1.0,
       "RealDevNo": 637,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 170
     },
     {
       "No": 171,
@@ -1591,7 +1933,9 @@
       "Addr": 16556,
       "Xishu": 1.0,
       "RealDevNo": 638,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 171
     },
     {
       "No": 172,
@@ -1600,7 +1944,9 @@
       "Addr": 16557,
       "Xishu": 1.0,
       "RealDevNo": 639,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 172
     },
     {
       "No": 173,
@@ -1609,7 +1955,9 @@
       "Addr": 16558,
       "Xishu": 1.0,
       "RealDevNo": 640,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 173
     },
     {
       "No": 174,
@@ -1618,7 +1966,9 @@
       "Addr": 16559,
       "Xishu": 1.0,
       "RealDevNo": 641,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 174
     },
     {
       "No": 175,
@@ -1627,7 +1977,9 @@
       "Addr": 16560,
       "Xishu": 1.0,
       "RealDevNo": 642,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 175
     },
     {
       "No": 176,
@@ -1636,7 +1988,9 @@
       "Addr": 16561,
       "Xishu": 1.0,
       "RealDevNo": 643,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 176
     },
     {
       "No": 177,
@@ -1645,7 +1999,9 @@
       "Addr": 16562,
       "Xishu": 1.0,
       "RealDevNo": 644,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 177
     },
     {
       "No": 178,
@@ -1654,7 +2010,9 @@
       "Addr": 16563,
       "Xishu": 1.0,
       "RealDevNo": 645,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 178
     },
     {
       "No": 179,
@@ -1663,7 +2021,9 @@
       "Addr": 16564,
       "Xishu": 1.0,
       "RealDevNo": 646,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 179
     },
     {
       "No": 180,
@@ -1672,7 +2032,9 @@
       "Addr": 16565,
       "Xishu": 1.0,
       "RealDevNo": 647,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 180
     },
     {
       "No": 181,
@@ -1681,7 +2043,9 @@
       "Addr": 16566,
       "Xishu": 1.0,
       "RealDevNo": 648,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 181
     },
     {
       "No": 182,
@@ -1690,7 +2054,9 @@
       "Addr": 16567,
       "Xishu": 1.0,
       "RealDevNo": 649,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 182
     },
     {
       "No": 183,
@@ -1699,7 +2065,9 @@
       "Addr": 16568,
       "Xishu": 1.0,
       "RealDevNo": 650,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 183
     },
     {
       "No": 184,
@@ -1708,7 +2076,9 @@
       "Addr": 16569,
       "Xishu": 1.0,
       "RealDevNo": 651,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 184
     },
     {
       "No": 185,
@@ -1717,7 +2087,9 @@
       "Addr": 16570,
       "Xishu": 1.0,
       "RealDevNo": 652,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 185
     },
     {
       "No": 186,
@@ -1726,7 +2098,9 @@
       "Addr": 16571,
       "Xishu": 1.0,
       "RealDevNo": 653,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 186
     },
     {
       "No": 187,
@@ -1735,7 +2109,9 @@
       "Addr": 16572,
       "Xishu": 1.0,
       "RealDevNo": 654,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 187
     },
     {
       "No": 188,
@@ -1744,7 +2120,9 @@
       "Addr": 16573,
       "Xishu": 1.0,
       "RealDevNo": 655,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 188
     },
     {
       "No": 189,
@@ -1753,7 +2131,9 @@
       "Addr": 16574,
       "Xishu": 1.0,
       "RealDevNo": 656,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 189
     },
     {
       "No": 190,
@@ -1762,7 +2142,9 @@
       "Addr": 16575,
       "Xishu": 1.0,
       "RealDevNo": 657,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 190
     },
     {
       "No": 191,
@@ -1771,7 +2153,9 @@
       "Addr": 16576,
       "Xishu": 1.0,
       "RealDevNo": 658,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 191
     },
     {
       "No": 192,
@@ -1780,7 +2164,9 @@
       "Addr": 16577,
       "Xishu": 1.0,
       "RealDevNo": 659,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 192
     },
     {
       "No": 193,
@@ -1789,7 +2175,9 @@
       "Addr": 16578,
       "Xishu": 1.0,
       "RealDevNo": 660,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 193
     },
     {
       "No": 194,
@@ -1798,7 +2186,9 @@
       "Addr": 16579,
       "Xishu": 1.0,
       "RealDevNo": 661,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 194
     },
     {
       "No": 195,
@@ -1807,7 +2197,9 @@
       "Addr": 16580,
       "Xishu": 1.0,
       "RealDevNo": 662,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 195
     },
     {
       "No": 196,
@@ -1816,7 +2208,9 @@
       "Addr": 16581,
       "Xishu": 1.0,
       "RealDevNo": 663,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 196
     },
     {
       "No": 197,
@@ -1825,7 +2219,9 @@
       "Addr": 16582,
       "Xishu": 1.0,
       "RealDevNo": 664,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 197
     },
     {
       "No": 198,
@@ -1834,7 +2230,9 @@
       "Addr": 16583,
       "Xishu": 1.0,
       "RealDevNo": 665,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 198
     },
     {
       "No": 199,
@@ -1843,7 +2241,9 @@
       "Addr": 16584,
       "Xishu": 1.0,
       "RealDevNo": 666,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 199
     },
     {
       "No": 200,
@@ -1852,7 +2252,9 @@
       "Addr": 16585,
       "Xishu": 1.0,
       "RealDevNo": 667,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 200
     },
     {
       "No": 201,
@@ -1861,7 +2263,9 @@
       "Addr": 16586,
       "Xishu": 1.0,
       "RealDevNo": 668,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 201
     },
     {
       "No": 202,
@@ -1870,7 +2274,9 @@
       "Addr": 16587,
       "Xishu": 1.0,
       "RealDevNo": 669,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 202
     },
     {
       "No": 203,
@@ -1879,7 +2285,9 @@
       "Addr": 16588,
       "Xishu": 1.0,
       "RealDevNo": 670,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 203
     },
     {
       "No": 204,
@@ -1888,7 +2296,9 @@
       "Addr": 16589,
       "Xishu": 1.0,
       "RealDevNo": 671,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 204
     },
     {
       "No": 205,
@@ -1897,7 +2307,9 @@
       "Addr": 16590,
       "Xishu": 1.0,
       "RealDevNo": 672,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 205
     },
     {
       "No": 206,
@@ -1906,7 +2318,9 @@
       "Addr": 16591,
       "Xishu": 1.0,
       "RealDevNo": 673,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 206
     },
     {
       "No": 207,
@@ -1915,7 +2329,9 @@
       "Addr": 16592,
       "Xishu": 1.0,
       "RealDevNo": 674,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 207
     },
     {
       "No": 208,
@@ -1924,7 +2340,9 @@
       "Addr": 16593,
       "Xishu": 1.0,
       "RealDevNo": 675,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 208
     },
     {
       "No": 209,
@@ -1933,7 +2351,9 @@
       "Addr": 16594,
       "Xishu": 1.0,
       "RealDevNo": 676,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 209
     },
     {
       "No": 210,
@@ -1942,7 +2362,9 @@
       "Addr": 16595,
       "Xishu": 1.0,
       "RealDevNo": 677,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 210
     },
     {
       "No": 211,
@@ -1951,7 +2373,9 @@
       "Addr": 16596,
       "Xishu": 1.0,
       "RealDevNo": 678,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 211
     },
     {
       "No": 212,
@@ -1960,7 +2384,9 @@
       "Addr": 16597,
       "Xishu": 1.0,
       "RealDevNo": 679,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 212
     },
     {
       "No": 213,
@@ -1969,7 +2395,9 @@
       "Addr": 16598,
       "Xishu": 1.0,
       "RealDevNo": 680,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 213
     },
     {
       "No": 214,
@@ -1978,7 +2406,9 @@
       "Addr": 16599,
       "Xishu": 1.0,
       "RealDevNo": 681,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 214
     },
     {
       "No": 215,
@@ -1987,7 +2417,9 @@
       "Addr": 16600,
       "Xishu": 1.0,
       "RealDevNo": 682,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 215
     },
     {
       "No": 216,
@@ -1996,25 +2428,31 @@
       "Addr": 16601,
       "Xishu": 1.0,
       "RealDevNo": 683,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 216
     },
     {
       "No": 217,
-      "Name": "设备[1]-设备[5]-累计发电量-实时库号[509]-实时库号[684]",
+      "Name": "设备[0]-累计发电量3-实时库号[842]",
       "Unit": null,
       "Addr": 16602,
       "Xishu": 1.0,
-      "RealDevNo": 684,
-      "type": 1
+      "RealDevNo": 842,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 217
     },
     {
       "No": 218,
-      "Name": "设备[1]-设备[5]-当日发电量-实时库号[510]-实时库号[685]",
+      "Name": "设备[0]-当日发电量3-实时库号[843]",
       "Unit": null,
       "Addr": 16603,
       "Xishu": 1.0,
-      "RealDevNo": 685,
-      "type": 1
+      "RealDevNo": 843,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 218
     },
     {
       "No": 219,
@@ -2023,7 +2461,9 @@
       "Addr": 16604,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 219
     },
     {
       "No": 220,
@@ -2032,7 +2472,9 @@
       "Addr": 16605,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 220
     },
     {
       "No": 221,
@@ -2041,7 +2483,9 @@
       "Addr": 16606,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 221
     },
     {
       "No": 222,
@@ -2050,7 +2494,9 @@
       "Addr": 16607,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 222
     },
     {
       "No": 223,
@@ -2059,7 +2505,9 @@
       "Addr": 16608,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 223
     },
     {
       "No": 224,
@@ -2068,7 +2516,9 @@
       "Addr": 16609,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 224
     },
     {
       "No": 225,
@@ -2077,7 +2527,9 @@
       "Addr": 16610,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 225
     },
     {
       "No": 226,
@@ -2086,7 +2538,9 @@
       "Addr": 16611,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 226
     },
     {
       "No": 227,
@@ -2095,7 +2549,9 @@
       "Addr": 16612,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 227
     },
     {
       "No": 228,
@@ -2104,7 +2560,9 @@
       "Addr": 16613,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 228
     },
     {
       "No": 229,
@@ -2113,7 +2571,9 @@
       "Addr": 16614,
       "Xishu": 1.0,
       "RealDevNo": 686,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 229
     },
     {
       "No": 230,
@@ -2122,7 +2582,9 @@
       "Addr": 16615,
       "Xishu": 1.0,
       "RealDevNo": 687,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 230
     },
     {
       "No": 231,
@@ -2131,7 +2593,9 @@
       "Addr": 16616,
       "Xishu": 1.0,
       "RealDevNo": 688,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 231
     },
     {
       "No": 232,
@@ -2140,7 +2604,9 @@
       "Addr": 16617,
       "Xishu": 1.0,
       "RealDevNo": 689,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 232
     },
     {
       "No": 233,
@@ -2149,7 +2615,9 @@
       "Addr": 16618,
       "Xishu": 1.0,
       "RealDevNo": 690,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 233
     },
     {
       "No": 234,
@@ -2158,7 +2626,9 @@
       "Addr": 16619,
       "Xishu": 1.0,
       "RealDevNo": 691,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 234
     },
     {
       "No": 235,
@@ -2167,7 +2637,9 @@
       "Addr": 16620,
       "Xishu": 1.0,
       "RealDevNo": 692,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 235
     },
     {
       "No": 236,
@@ -2176,7 +2648,9 @@
       "Addr": 16621,
       "Xishu": 1.0,
       "RealDevNo": 693,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 236
     },
     {
       "No": 237,
@@ -2185,7 +2659,9 @@
       "Addr": 16622,
       "Xishu": 1.0,
       "RealDevNo": 694,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 237
     },
     {
       "No": 238,
@@ -2194,7 +2670,9 @@
       "Addr": 16623,
       "Xishu": 1.0,
       "RealDevNo": 695,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 238
     },
     {
       "No": 239,
@@ -2203,7 +2681,9 @@
       "Addr": 16624,
       "Xishu": 1.0,
       "RealDevNo": 696,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 239
     },
     {
       "No": 240,
@@ -2212,7 +2692,9 @@
       "Addr": 16625,
       "Xishu": 1.0,
       "RealDevNo": 697,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 240
     },
     {
       "No": 241,
@@ -2221,7 +2703,9 @@
       "Addr": 16626,
       "Xishu": 1.0,
       "RealDevNo": 698,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 241
     },
     {
       "No": 242,
@@ -2230,7 +2714,9 @@
       "Addr": 16627,
       "Xishu": 1.0,
       "RealDevNo": 699,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 242
     },
     {
       "No": 243,
@@ -2239,7 +2725,9 @@
       "Addr": 16628,
       "Xishu": 1.0,
       "RealDevNo": 700,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 243
     },
     {
       "No": 244,
@@ -2248,7 +2736,9 @@
       "Addr": 16629,
       "Xishu": 1.0,
       "RealDevNo": 701,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 244
     },
     {
       "No": 245,
@@ -2257,7 +2747,9 @@
       "Addr": 16630,
       "Xishu": 1.0,
       "RealDevNo": 702,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 245
     },
     {
       "No": 246,
@@ -2266,7 +2758,9 @@
       "Addr": 16631,
       "Xishu": 1.0,
       "RealDevNo": 703,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 246
     },
     {
       "No": 247,
@@ -2275,7 +2769,9 @@
       "Addr": 16632,
       "Xishu": 1.0,
       "RealDevNo": 704,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 247
     },
     {
       "No": 248,
@@ -2284,7 +2780,9 @@
       "Addr": 16633,
       "Xishu": 1.0,
       "RealDevNo": 705,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 248
     },
     {
       "No": 249,
@@ -2293,7 +2791,9 @@
       "Addr": 16634,
       "Xishu": 1.0,
       "RealDevNo": 706,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 249
     },
     {
       "No": 250,
@@ -2302,7 +2802,9 @@
       "Addr": 16635,
       "Xishu": 1.0,
       "RealDevNo": 707,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 250
     },
     {
       "No": 251,
@@ -2311,7 +2813,9 @@
       "Addr": 16636,
       "Xishu": 1.0,
       "RealDevNo": 708,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 251
     },
     {
       "No": 252,
@@ -2320,7 +2824,9 @@
       "Addr": 16637,
       "Xishu": 1.0,
       "RealDevNo": 709,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 252
     },
     {
       "No": 253,
@@ -2329,7 +2835,9 @@
       "Addr": 16638,
       "Xishu": 1.0,
       "RealDevNo": 710,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 253
     },
     {
       "No": 254,
@@ -2338,7 +2846,9 @@
       "Addr": 16639,
       "Xishu": 1.0,
       "RealDevNo": 711,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 254
     },
     {
       "No": 255,
@@ -2347,7 +2857,9 @@
       "Addr": 16640,
       "Xishu": 1.0,
       "RealDevNo": 712,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 255
     },
     {
       "No": 256,
@@ -2356,7 +2868,9 @@
       "Addr": 16641,
       "Xishu": 1.0,
       "RealDevNo": 713,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 256
     },
     {
       "No": 257,
@@ -2365,7 +2879,9 @@
       "Addr": 16642,
       "Xishu": 1.0,
       "RealDevNo": 714,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 257
     },
     {
       "No": 258,
@@ -2374,7 +2890,9 @@
       "Addr": 16643,
       "Xishu": 1.0,
       "RealDevNo": 715,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 258
     },
     {
       "No": 259,
@@ -2383,7 +2901,9 @@
       "Addr": 16644,
       "Xishu": 1.0,
       "RealDevNo": 716,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 259
     },
     {
       "No": 260,
@@ -2392,7 +2912,9 @@
       "Addr": 16645,
       "Xishu": 1.0,
       "RealDevNo": 717,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 260
     },
     {
       "No": 261,
@@ -2401,7 +2923,9 @@
       "Addr": 16646,
       "Xishu": 1.0,
       "RealDevNo": 718,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 261
     },
     {
       "No": 262,
@@ -2410,7 +2934,9 @@
       "Addr": 16647,
       "Xishu": 1.0,
       "RealDevNo": 719,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 262
     },
     {
       "No": 263,
@@ -2419,7 +2945,9 @@
       "Addr": 16648,
       "Xishu": 1.0,
       "RealDevNo": 720,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 263
     },
     {
       "No": 264,
@@ -2428,7 +2956,9 @@
       "Addr": 16649,
       "Xishu": 1.0,
       "RealDevNo": 721,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 264
     },
     {
       "No": 265,
@@ -2437,7 +2967,9 @@
       "Addr": 16650,
       "Xishu": 1.0,
       "RealDevNo": 722,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 265
     },
     {
       "No": 266,
@@ -2446,7 +2978,9 @@
       "Addr": 16651,
       "Xishu": 1.0,
       "RealDevNo": 723,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 266
     },
     {
       "No": 267,
@@ -2455,7 +2989,9 @@
       "Addr": 16652,
       "Xishu": 1.0,
       "RealDevNo": 724,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 267
     },
     {
       "No": 268,
@@ -2464,7 +3000,9 @@
       "Addr": 16653,
       "Xishu": 1.0,
       "RealDevNo": 725,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 268
     },
     {
       "No": 269,
@@ -2473,7 +3011,9 @@
       "Addr": 16654,
       "Xishu": 1.0,
       "RealDevNo": 726,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 269
     },
     {
       "No": 270,
@@ -2482,7 +3022,9 @@
       "Addr": 16655,
       "Xishu": 1.0,
       "RealDevNo": 727,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 270
     },
     {
       "No": 271,
@@ -2491,7 +3033,9 @@
       "Addr": 16656,
       "Xishu": 1.0,
       "RealDevNo": 728,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 271
     },
     {
       "No": 272,
@@ -2500,7 +3044,9 @@
       "Addr": 16657,
       "Xishu": 1.0,
       "RealDevNo": 729,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 272
     },
     {
       "No": 273,
@@ -2509,7 +3055,9 @@
       "Addr": 16658,
       "Xishu": 1.0,
       "RealDevNo": 730,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 273
     },
     {
       "No": 274,
@@ -2518,7 +3066,9 @@
       "Addr": 16659,
       "Xishu": 1.0,
       "RealDevNo": 731,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 274
     },
     {
       "No": 275,
@@ -2527,7 +3077,9 @@
       "Addr": 16660,
       "Xishu": 1.0,
       "RealDevNo": 732,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 275
     },
     {
       "No": 276,
@@ -2536,7 +3088,9 @@
       "Addr": 16661,
       "Xishu": 1.0,
       "RealDevNo": 733,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 276
     },
     {
       "No": 277,
@@ -2545,7 +3099,9 @@
       "Addr": 16662,
       "Xishu": 1.0,
       "RealDevNo": 734,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 277
     },
     {
       "No": 278,
@@ -2554,7 +3110,9 @@
       "Addr": 16663,
       "Xishu": 1.0,
       "RealDevNo": 735,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 278
     },
     {
       "No": 279,
@@ -2563,7 +3121,9 @@
       "Addr": 16664,
       "Xishu": 1.0,
       "RealDevNo": 736,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 279
     },
     {
       "No": 280,
@@ -2572,7 +3132,9 @@
       "Addr": 16665,
       "Xishu": 1.0,
       "RealDevNo": 737,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 280
     },
     {
       "No": 281,
@@ -2581,7 +3143,9 @@
       "Addr": 16666,
       "Xishu": 1.0,
       "RealDevNo": 738,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 281
     },
     {
       "No": 282,
@@ -2590,7 +3154,9 @@
       "Addr": 16667,
       "Xishu": 1.0,
       "RealDevNo": 739,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 282
     },
     {
       "No": 283,
@@ -2599,7 +3165,9 @@
       "Addr": 16668,
       "Xishu": 1.0,
       "RealDevNo": 740,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 283
     },
     {
       "No": 284,
@@ -2608,7 +3176,9 @@
       "Addr": 16669,
       "Xishu": 1.0,
       "RealDevNo": 741,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 284
     },
     {
       "No": 285,
@@ -2617,7 +3187,9 @@
       "Addr": 16670,
       "Xishu": 1.0,
       "RealDevNo": 742,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 285
     },
     {
       "No": 286,
@@ -2626,7 +3198,9 @@
       "Addr": 16671,
       "Xishu": 1.0,
       "RealDevNo": 743,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 286
     },
     {
       "No": 287,
@@ -2635,7 +3209,9 @@
       "Addr": 16672,
       "Xishu": 1.0,
       "RealDevNo": 744,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 287
     },
     {
       "No": 288,
@@ -2644,25 +3220,31 @@
       "Addr": 16673,
       "Xishu": 1.0,
       "RealDevNo": 745,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 288
     },
     {
       "No": 289,
-      "Name": "设备[1]-设备[6]-累计发电量-实时库号[587]-实时库号[746]",
+      "Name": "设备[0]-累计发电量4-实时库号[844]",
       "Unit": null,
       "Addr": 16674,
       "Xishu": 1.0,
-      "RealDevNo": 746,
-      "type": 1
+      "RealDevNo": 844,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 289
     },
     {
       "No": 290,
-      "Name": "设备[1]-设备[6]-当日发电量-实时库号[588]-实时库号[747]",
+      "Name": "设备[0]-当日发电量4-实时库号[845]",
       "Unit": null,
       "Addr": 16675,
       "Xishu": 1.0,
-      "RealDevNo": 747,
-      "type": 1
+      "RealDevNo": 845,
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 290
     },
     {
       "No": 291,
@@ -2671,7 +3253,9 @@
       "Addr": 16676,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 291
     },
     {
       "No": 292,
@@ -2680,7 +3264,9 @@
       "Addr": 16677,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 292
     },
     {
       "No": 293,
@@ -2689,7 +3275,9 @@
       "Addr": 16678,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 293
     },
     {
       "No": 294,
@@ -2698,7 +3286,9 @@
       "Addr": 16679,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 294
     },
     {
       "No": 295,
@@ -2707,7 +3297,9 @@
       "Addr": 16680,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 295
     },
     {
       "No": 296,
@@ -2716,7 +3308,9 @@
       "Addr": 16681,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 296
     },
     {
       "No": 297,
@@ -2725,7 +3319,9 @@
       "Addr": 16682,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 297
     },
     {
       "No": 298,
@@ -2734,7 +3330,9 @@
       "Addr": 16683,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 298
     },
     {
       "No": 299,
@@ -2743,7 +3341,9 @@
       "Addr": 16684,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 299
     },
     {
       "No": 300,
@@ -2752,7 +3352,9 @@
       "Addr": 16685,
       "Xishu": 1.0,
       "RealDevNo": 61,
-      "type": 1
+      "type": 1,
+      "CurrentValue": 0.0,
+      "Idx": 300
     }
   ],
   "YXDataItem": [
@@ -2763,7 +3365,9 @@
       "Addr": 1,
       "Xishu": 1.0,
       "RealDevNo": 748,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 1,
@@ -2772,7 +3376,9 @@
       "Addr": 2,
       "Xishu": 1.0,
       "RealDevNo": 749,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 2,
@@ -2781,7 +3387,9 @@
       "Addr": 3,
       "Xishu": 1.0,
       "RealDevNo": 750,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 3,
@@ -2790,7 +3398,9 @@
       "Addr": 4,
       "Xishu": 1.0,
       "RealDevNo": 751,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 4,
@@ -2799,7 +3409,9 @@
       "Addr": 5,
       "Xishu": 1.0,
       "RealDevNo": 752,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 5,
@@ -2808,7 +3420,9 @@
       "Addr": 6,
       "Xishu": 1.0,
       "RealDevNo": 753,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 6,
@@ -2817,7 +3431,9 @@
       "Addr": 7,
       "Xishu": 1.0,
       "RealDevNo": 754,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 7,
@@ -2826,7 +3442,9 @@
       "Addr": 8,
       "Xishu": 1.0,
       "RealDevNo": 755,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 8,
@@ -2835,7 +3453,9 @@
       "Addr": 9,
       "Xishu": 1.0,
       "RealDevNo": 756,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 9,
@@ -2844,7 +3464,9 @@
       "Addr": 10,
       "Xishu": 1.0,
       "RealDevNo": 757,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 10,
@@ -2853,7 +3475,9 @@
       "Addr": 11,
       "Xishu": 1.0,
       "RealDevNo": 758,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 11,
@@ -2862,7 +3486,9 @@
       "Addr": 12,
       "Xishu": 1.0,
       "RealDevNo": 759,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 12,
@@ -2871,7 +3497,9 @@
       "Addr": 13,
       "Xishu": 1.0,
       "RealDevNo": 760,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 13,
@@ -2880,7 +3508,9 @@
       "Addr": 14,
       "Xishu": 1.0,
       "RealDevNo": 761,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 14,
@@ -2889,7 +3519,9 @@
       "Addr": 15,
       "Xishu": 1.0,
       "RealDevNo": 762,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 15,
@@ -2898,7 +3530,9 @@
       "Addr": 16,
       "Xishu": 1.0,
       "RealDevNo": 763,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 16,
@@ -2907,7 +3541,9 @@
       "Addr": 17,
       "Xishu": 1.0,
       "RealDevNo": 764,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 17,
@@ -2916,7 +3552,9 @@
       "Addr": 18,
       "Xishu": 1.0,
       "RealDevNo": 765,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 18,
@@ -2925,7 +3563,9 @@
       "Addr": 19,
       "Xishu": 1.0,
       "RealDevNo": 766,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 19,
@@ -2934,7 +3574,9 @@
       "Addr": 20,
       "Xishu": 1.0,
       "RealDevNo": 767,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 20,
@@ -2943,7 +3585,9 @@
       "Addr": 21,
       "Xishu": 1.0,
       "RealDevNo": 768,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 21,
@@ -2952,7 +3596,9 @@
       "Addr": 22,
       "Xishu": 1.0,
       "RealDevNo": 769,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 22,
@@ -2961,7 +3607,9 @@
       "Addr": 23,
       "Xishu": 1.0,
       "RealDevNo": 770,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 23,
@@ -2970,7 +3618,9 @@
       "Addr": 24,
       "Xishu": 1.0,
       "RealDevNo": 771,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 24,
@@ -2979,7 +3629,9 @@
       "Addr": 25,
       "Xishu": 1.0,
       "RealDevNo": 772,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 25,
@@ -2988,7 +3640,9 @@
       "Addr": 26,
       "Xishu": 1.0,
       "RealDevNo": 773,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 26,
@@ -2997,7 +3651,9 @@
       "Addr": 27,
       "Xishu": 1.0,
       "RealDevNo": 774,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 27,
@@ -3006,7 +3662,9 @@
       "Addr": 28,
       "Xishu": 1.0,
       "RealDevNo": 775,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 28,
@@ -3015,7 +3673,9 @@
       "Addr": 29,
       "Xishu": 1.0,
       "RealDevNo": 776,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 29,
@@ -3024,7 +3684,9 @@
       "Addr": 30,
       "Xishu": 1.0,
       "RealDevNo": 777,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 30,
@@ -3033,7 +3695,9 @@
       "Addr": 31,
       "Xishu": 1.0,
       "RealDevNo": 778,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 31,
@@ -3042,7 +3706,9 @@
       "Addr": 32,
       "Xishu": 1.0,
       "RealDevNo": 779,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 32,
@@ -3051,7 +3717,9 @@
       "Addr": 33,
       "Xishu": 1.0,
       "RealDevNo": 780,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 33,
@@ -3060,7 +3728,9 @@
       "Addr": 34,
       "Xishu": 1.0,
       "RealDevNo": 781,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 34,
@@ -3069,7 +3739,9 @@
       "Addr": 35,
       "Xishu": 1.0,
       "RealDevNo": 782,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 35,
@@ -3078,7 +3750,9 @@
       "Addr": 36,
       "Xishu": 1.0,
       "RealDevNo": 783,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 36,
@@ -3087,7 +3761,9 @@
       "Addr": 37,
       "Xishu": 1.0,
       "RealDevNo": 784,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 37,
@@ -3096,7 +3772,9 @@
       "Addr": 38,
       "Xishu": 1.0,
       "RealDevNo": 785,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 38,
@@ -3105,7 +3783,9 @@
       "Addr": 39,
       "Xishu": 1.0,
       "RealDevNo": 786,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 39,
@@ -3114,7 +3794,9 @@
       "Addr": 40,
       "Xishu": 1.0,
       "RealDevNo": 787,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 40,
@@ -3123,7 +3805,9 @@
       "Addr": 41,
       "Xishu": 1.0,
       "RealDevNo": 788,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 41,
@@ -3132,7 +3816,9 @@
       "Addr": 42,
       "Xishu": 1.0,
       "RealDevNo": 789,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 42,
@@ -3141,7 +3827,9 @@
       "Addr": 43,
       "Xishu": 1.0,
       "RealDevNo": 790,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 43,
@@ -3150,7 +3838,9 @@
       "Addr": 44,
       "Xishu": 1.0,
       "RealDevNo": 791,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 44,
@@ -3159,7 +3849,9 @@
       "Addr": 45,
       "Xishu": 1.0,
       "RealDevNo": 792,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 45,
@@ -3168,7 +3860,9 @@
       "Addr": 46,
       "Xishu": 1.0,
       "RealDevNo": 793,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 46,
@@ -3177,7 +3871,9 @@
       "Addr": 47,
       "Xishu": 1.0,
       "RealDevNo": 794,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 47,
@@ -3186,7 +3882,9 @@
       "Addr": 48,
       "Xishu": 1.0,
       "RealDevNo": 795,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 48,
@@ -3195,7 +3893,9 @@
       "Addr": 49,
       "Xishu": 1.0,
       "RealDevNo": 796,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 49,
@@ -3204,7 +3904,9 @@
       "Addr": 50,
       "Xishu": 1.0,
       "RealDevNo": 797,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 50,
@@ -3213,7 +3915,9 @@
       "Addr": 51,
       "Xishu": 1.0,
       "RealDevNo": 798,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 51,
@@ -3222,7 +3926,9 @@
       "Addr": 52,
       "Xishu": 1.0,
       "RealDevNo": 799,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 52,
@@ -3231,7 +3937,9 @@
       "Addr": 53,
       "Xishu": 1.0,
       "RealDevNo": 800,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 53,
@@ -3240,7 +3948,9 @@
       "Addr": 54,
       "Xishu": 1.0,
       "RealDevNo": 801,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 54,
@@ -3249,7 +3959,9 @@
       "Addr": 55,
       "Xishu": 1.0,
       "RealDevNo": 802,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 55,
@@ -3258,7 +3970,9 @@
       "Addr": 56,
       "Xishu": 1.0,
       "RealDevNo": 803,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 56,
@@ -3267,7 +3981,9 @@
       "Addr": 57,
       "Xishu": 1.0,
       "RealDevNo": 804,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 57,
@@ -3276,7 +3992,9 @@
       "Addr": 58,
       "Xishu": 1.0,
       "RealDevNo": 805,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 58,
@@ -3285,7 +4003,9 @@
       "Addr": 59,
       "Xishu": 1.0,
       "RealDevNo": 806,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 59,
@@ -3294,7 +4014,9 @@
       "Addr": 60,
       "Xishu": 1.0,
       "RealDevNo": 807,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 60,
@@ -3303,7 +4025,9 @@
       "Addr": 61,
       "Xishu": 1.0,
       "RealDevNo": 808,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 61,
@@ -3312,7 +4036,9 @@
       "Addr": 62,
       "Xishu": 1.0,
       "RealDevNo": 809,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 62,
@@ -3321,7 +4047,9 @@
       "Addr": 63,
       "Xishu": 1.0,
       "RealDevNo": 810,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 63,
@@ -3330,7 +4058,9 @@
       "Addr": 64,
       "Xishu": 1.0,
       "RealDevNo": 811,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 64,
@@ -3339,7 +4069,9 @@
       "Addr": 65,
       "Xishu": 1.0,
       "RealDevNo": 812,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 65,
@@ -3348,7 +4080,9 @@
       "Addr": 66,
       "Xishu": 1.0,
       "RealDevNo": 813,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 66,
@@ -3357,7 +4091,9 @@
       "Addr": 67,
       "Xishu": 1.0,
       "RealDevNo": 814,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 67,
@@ -3366,7 +4102,9 @@
       "Addr": 68,
       "Xishu": 1.0,
       "RealDevNo": 815,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 68,
@@ -3375,7 +4113,9 @@
       "Addr": 69,
       "Xishu": 1.0,
       "RealDevNo": 816,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 69,
@@ -3384,7 +4124,9 @@
       "Addr": 70,
       "Xishu": 1.0,
       "RealDevNo": 817,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 70,
@@ -3393,7 +4135,9 @@
       "Addr": 71,
       "Xishu": 1.0,
       "RealDevNo": 818,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 71,
@@ -3402,7 +4146,9 @@
       "Addr": 72,
       "Xishu": 1.0,
       "RealDevNo": 819,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 72,
@@ -3411,7 +4157,9 @@
       "Addr": 73,
       "Xishu": 1.0,
       "RealDevNo": 820,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 73,
@@ -3420,7 +4168,9 @@
       "Addr": 74,
       "Xishu": 1.0,
       "RealDevNo": 821,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 74,
@@ -3429,7 +4179,9 @@
       "Addr": 75,
       "Xishu": 1.0,
       "RealDevNo": 822,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 75,
@@ -3438,7 +4190,9 @@
       "Addr": 76,
       "Xishu": 1.0,
       "RealDevNo": 823,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 76,
@@ -3447,7 +4201,9 @@
       "Addr": 77,
       "Xishu": 1.0,
       "RealDevNo": 824,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 77,
@@ -3456,7 +4212,9 @@
       "Addr": 78,
       "Xishu": 1.0,
       "RealDevNo": 825,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 78,
@@ -3465,7 +4223,9 @@
       "Addr": 79,
       "Xishu": 1.0,
       "RealDevNo": 826,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 79,
@@ -3474,7 +4234,9 @@
       "Addr": 80,
       "Xishu": 1.0,
       "RealDevNo": 827,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 80,
@@ -3483,7 +4245,9 @@
       "Addr": 81,
       "Xishu": 1.0,
       "RealDevNo": 828,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 81,
@@ -3492,7 +4256,9 @@
       "Addr": 82,
       "Xishu": 1.0,
       "RealDevNo": 829,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 82,
@@ -3501,7 +4267,9 @@
       "Addr": 83,
       "Xishu": 1.0,
       "RealDevNo": 830,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 83,
@@ -3510,7 +4278,9 @@
       "Addr": 84,
       "Xishu": 1.0,
       "RealDevNo": 831,
-      "type": 0
+      "type": 0,
+      "CurrentValue": 0.0,
+      "Idx": 0
     }
   ],
   "YKDataItem": [],
@@ -3522,7 +4292,9 @@
       "Addr": 25601,
       "Xishu": 1.0,
       "RealDevNo": 832,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 1,
@@ -3531,7 +4303,9 @@
       "Addr": 25602,
       "Xishu": 1.0,
       "RealDevNo": 833,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 2,
@@ -3540,7 +4314,9 @@
       "Addr": 25603,
       "Xishu": 1.0,
       "RealDevNo": 834,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 3,
@@ -3549,7 +4325,9 @@
       "Addr": 25604,
       "Xishu": 1.0,
       "RealDevNo": 835,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 4,
@@ -3558,7 +4336,9 @@
       "Addr": 25605,
       "Xishu": 1.0,
       "RealDevNo": 836,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 5,
@@ -3567,7 +4347,9 @@
       "Addr": 25606,
       "Xishu": 1.0,
       "RealDevNo": 837,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 6,
@@ -3576,7 +4358,9 @@
       "Addr": 25607,
       "Xishu": 1.0,
       "RealDevNo": 65,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 7,
@@ -3585,7 +4369,9 @@
       "Addr": 25608,
       "Xishu": 1.0,
       "RealDevNo": 65,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 8,
@@ -3594,7 +4380,9 @@
       "Addr": 25609,
       "Xishu": 1.0,
       "RealDevNo": 65,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 9,
@@ -3603,7 +4391,9 @@
       "Addr": 25610,
       "Xishu": 1.0,
       "RealDevNo": 65,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     },
     {
       "No": 10,
@@ -3612,7 +4402,9 @@
       "Addr": 25611,
       "Xishu": 1.0,
       "RealDevNo": 65,
-      "type": 3
+      "type": 3,
+      "CurrentValue": 0.0,
+      "Idx": 0
     }
   ]
 }
